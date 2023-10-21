@@ -97,6 +97,7 @@ body{
 .project-description{
     font-size: 16px;
     color: #ffffff;
+    
 }
 
 a{
@@ -122,4 +123,8 @@ a:hover{
 
 .about-me{
     background-color:#D4AF37;
+}
+
+.project-description img{
+    width: 1000px
 }
